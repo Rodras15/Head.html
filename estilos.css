@@ -1,0 +1,146 @@
+#tabla_historia{width:90%;
+	text-align:center
+}
+#tabla_historia_c11{text-align:center;
+			color:white
+}
+#tabla_historia_c21{text-align:center
+}
+#Escudo_Real_Madrid{width:22%;
+				height:52.5%
+}
+#tabla_historia_c31{margin:auto;
+			font-weight:700;
+			background-color:black;
+			display:inline-block;
+			color:white;
+			width=80%
+			
+}
+#Tabla_títulos{border-collapse:separate;
+	width:100%;
+	height:100%;
+	background-color:black
+}
+#Tabla_títulos_c11{text-align:right;
+			background-color:black;
+			color:white;
+			font-style:italic
+}
+#Tabla_títulos_c12{wide:0
+}
+#Tabla_títulos_c13{wide:0
+}
+#Tabla_títulos_c21{color:white;
+			text-align:center;
+			width:30%
+}
+#Tabla_títulos_c22{
+}
+#Liga{height:400;width:400
+}
+#Tabla_títulos_c23{text-align:center;
+			color:white;
+			width:30%;
+			text-decoration:underline;
+			font-weight:700
+}
+#Tabla_títulos_c31{color:white;
+			text-align:center;
+			width:30%
+}
+#Tabla_títulos_c32{
+}
+#Champions{height:400;width:400
+}
+#Tabla_títulos_c33{text-align:center;
+			color:white;
+			width:30%;
+			text-decoration:underline ;
+			font-weight:700
+}
+#Tabla_títulos_c41{color:white;
+			text-align:center;
+			width:30%
+}
+#Tabla_títulos_c42{
+}
+#Copa{height:400;width:400
+}
+#Tabla_títulos_c43{text-align:center;
+			color:white;
+			width:30%;
+			text-decoration:underline;
+			font-weight:700
+}
+#Tabla_títulos_c51{color:white;
+			text-align:center;
+			width:30%
+}
+#Tabla_títulos_c52{
+}
+#Supercopa{width:600;height:400
+}
+#Tabla_títulos_c53{text-align:center;
+			color:white;
+			width:30%;
+			text-decoration:underline;
+			font-weight:700
+}
+#Tabla_títulos_c61{color:white;
+			text-align:center;
+			width:30%
+}
+#Tabla_títulos_c62{
+}
+#Mundial{height:400;width:600
+}
+#Tabla_títulos_c63{text-align:center;
+			color:white;
+			width:30%;
+			text-decoration:underline;
+			font-weight:700
+}
+#Tabla_Jugadores{background-color:#252850;
+	width:100%
+}
+#Tabla_Jugadores_c11{text-align:right;
+			color:#e1dc07;
+			font-style:italic
+}
+#Tabla_Jugadores_c12{wide:0%
+}
+#Tabla_Jugadores_c21{color:#e1dc07
+}
+#Tabla_Jugadores_c22{width:500;
+			color:#e1dc07
+}
+#Tabla_Jugadores_c31{color:#e1dc07
+}
+#Tabla_Jugadores_c32{width:500;
+			color:#e1dc07
+}
+#Tabla_Jugadores_c41{color:#e1dc07
+}
+#Tabla_Jugadores_c42{width:500;
+			color:#e1dc07
+}
+#Tabla_Jugadores_c51{color:#e1dc07
+}
+#Tabla_Jugadores_c52{width:500;
+			color:#e1dc07
+}
+#Tabla_encuesta{background-color:grey;
+	margin:auto
+}
+#Tabla_encuesta_c11{text-align:center;
+			color:white
+}
+#Tabla_encuesta_c21{color:white
+}
+#Tabla_enlaces{background-color:#18171c;
+	width:60%;
+	margin:auto
+}
+#Tabla_enlaces_c11{color:white
+}		
