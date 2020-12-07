@@ -1,3 +1,5 @@
+#body{background-image:url(Bernabeu.jpg)
+}
 #tabla_historia{width:90%;
 	text-align:center
 }
@@ -12,10 +14,9 @@
 #tabla_historia_c31{margin:auto;
 			font-weight:700;
 			background-color:black;
-			display:inline-block;
+			width:80%;
 			color:white;
-			width=80%
-			
+			font-size:17px
 }
 #Tabla_títulos{border-collapse:separate;
 	width:100%;
@@ -25,43 +26,49 @@
 #Tabla_títulos_c11{text-align:right;
 			background-color:black;
 			color:white;
-			font-style:italic
+			font-style:italic;
+			font-size:40px
 }
-#Tabla_títulos_c12{wide:0
+#Tabla_títulos_c12{width:0
 }
-#Tabla_títulos_c13{wide:0
+#Tabla_títulos_c13{width:0
 }
 #Tabla_títulos_c21{color:white;
 			text-align:center;
-			width:30%
+			width:30%;
+			font-size:25px
 }
 #Tabla_títulos_c22{
 }
-#Liga{height:400;width:400
+#Liga{height:400px;width:400px
 }
 #Tabla_títulos_c23{text-align:center;
 			color:white;
 			width:30%;
 			text-decoration:underline;
-			font-weight:700
+			font-weight:700;
+			font-size:25px
 }
 #Tabla_títulos_c31{color:white;
 			text-align:center;
-			width:30%
+			width:30%;
+			font-size:25px
 }
 #Tabla_títulos_c32{
 }
-#Champions{height:400;width:400
+#Champions{height:400px;width:400px
 }
 #Tabla_títulos_c33{text-align:center;
 			color:white;
 			width:30%;
-			text-decoration:underline ;
-			font-weight:700
+			text-decoration:underline;
+			font-weight:700;
+			font-size:25px
 }
 #Tabla_títulos_c41{color:white;
 			text-align:center;
-			width:30%
+			width:30%;
+			font-size:25px
 }
 #Tabla_títulos_c42{
 }
@@ -71,70 +78,85 @@
 			color:white;
 			width:30%;
 			text-decoration:underline;
-			font-weight:700
+			font-weight:700;
+			font-size:25px
 }
 #Tabla_títulos_c51{color:white;
 			text-align:center;
-			width:30%
+			width:30%;
+			font-size:25px
 }
 #Tabla_títulos_c52{
 }
-#Supercopa{width:600;height:400
+#Supercopa{width:600px;height:400px
 }
 #Tabla_títulos_c53{text-align:center;
 			color:white;
 			width:30%;
 			text-decoration:underline;
-			font-weight:700
+			font-weight:700;
+			font-size:25px
 }
 #Tabla_títulos_c61{color:white;
 			text-align:center;
-			width:30%
+			width:30%;
+			font-size:25px
 }
 #Tabla_títulos_c62{
 }
-#Mundial{height:400;width:600
+#Mundial{height:400px;width:600px
 }
 #Tabla_títulos_c63{text-align:center;
 			color:white;
 			width:30%;
 			text-decoration:underline;
-			font-weight:700
+			font-weight:700;
+			font-size:25px
 }
 #Tabla_Jugadores{background-color:#252850;
 	width:100%
 }
 #Tabla_Jugadores_c11{text-align:right;
 			color:#e1dc07;
-			font-style:italic
+			font-style:italic;
+			font-size:30px
 }
-#Tabla_Jugadores_c12{wide:0%
+#Tabla_Jugadores_c12{width:0%
 }
-#Tabla_Jugadores_c21{color:#e1dc07
+#Tabla_Jugadores_c21{color:#e1dc07;
+			font-size:25px
 }
-#Tabla_Jugadores_c22{width:500;
-			color:#e1dc07
+#Tabla_Jugadores_c22{width:500px;
+			color:#e1dc07;
+			font-size:20px
 }
-#Tabla_Jugadores_c31{color:#e1dc07
+#Tabla_Jugadores_c31{color:#e1dc07;
+			font-size:25px
 }
-#Tabla_Jugadores_c32{width:500;
-			color:#e1dc07
+#Tabla_Jugadores_c32{width:500px;
+			color:#e1dc07;
+			font-size:20px
 }
-#Tabla_Jugadores_c41{color:#e1dc07
+#Tabla_Jugadores_c41{color:#e1dc07;
+			font-size:25px
 }
-#Tabla_Jugadores_c42{width:500;
-			color:#e1dc07
+#Tabla_Jugadores_c42{width:500px;
+			color:#e1dc07;
+			font-size:20px
 }
-#Tabla_Jugadores_c51{color:#e1dc07
+#Tabla_Jugadores_c51{color:#e1dc07;
+			font-size:25px
 }
-#Tabla_Jugadores_c52{width:500;
-			color:#e1dc07
+#Tabla_Jugadores_c52{width:500px;
+			color:#e1dc07;
+			font-size:20px
 }
 #Tabla_encuesta{background-color:grey;
 	margin:auto
 }
 #Tabla_encuesta_c11{text-align:center;
-			color:white
+			color:white;
+			font-size:25px
 }
 #Tabla_encuesta_c21{color:white
 }
